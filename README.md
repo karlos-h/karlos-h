@@ -1,5 +1,3 @@
-# Hi, I'm Karlos 👋
-
 Final-year Bachelor of Commerce student (Information Systems, Business Analytics minor) at the University of Canterbury, Christchurch, NZ.
 
 I build full-stack web apps and tools, and I'm looking for graduate roles in **AI & Automation, Business/Systems Analysis and Data**. Based in Christchurch, open to Auckland, Melbourne and Brisbane.
